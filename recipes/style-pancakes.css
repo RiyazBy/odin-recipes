@@ -1,0 +1,17 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(69, 118, 139);
+}
+h1 {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    color: rgb(109, 109, 109);
+}
+h2 {
+    color: rgb(224, 224, 224);
+}
+li, #Ingredients, #Steps {
+    text-align: left;
+}
