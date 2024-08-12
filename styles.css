@@ -1,13 +1,29 @@
 * {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background-color:  rgb(69, 118, 139);
+    background-color:  rgb(90, 150, 175);
 }
+
 h1 {
     background-color: white;
     text-align: center;
     font-size: 50px;
     color: rgb(109, 109, 109);
+    margin-top: 0;
+    padding: 10px;
+    border: 3px solid rgb(109, 109, 109);
+}
+#recipes {
+    text-align: center;
 }
 li {
     font-size: 28px;
+    display: inline-block;
+    margin: 5px 250px 0px 250px;
+}
+#images {
+    text-align: center;
+}
+img {
+    margin: 0 45px;
+    object-fit: cover;
 }
